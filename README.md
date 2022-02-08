@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tony0429
-- 👀 I’m interested in data-processing and data analyzing.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in data-processing and data analyzing, studying in python, SQL and Tableau.
+- 🌱 I’m currently in ASU, master program in business analytics.
 - 📫 Reach me via telegram, Line, twitter and Instagram.
 
 <!---
